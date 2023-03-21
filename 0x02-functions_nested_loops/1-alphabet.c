@@ -6,7 +6,7 @@
 	 */
 
 
-	void print_alphabet(void) //Print alphabet function
+	void print_alphabet(void) /**Print alphabet function */
 	{
 		char letter;
 
